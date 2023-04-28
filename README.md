@@ -5,7 +5,7 @@ This is a simple website that I created as an exercise to build my skills in web
 This website is completely responsive, ensuring easy access, readability, and navigation on any device.
 
 ## Live Demo
-Check out the live demo https://saheb2002.github.io/TinDog/
+Check out the live demo https://saheb2002.github.io/4-TinDog-website/
 
 ## Technologies Used
 HTML, CSS
