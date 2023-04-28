@@ -8,7 +8,7 @@ This website is completely responsive, ensuring easy access, readability, and na
 Check out the live demo https://saheb2002.github.io/TinDog/
 
 ## Technologies Used
-HTML, CSS, JavaScript
+HTML, CSS
 
 ## Contributing
 Contributions are welcome! If you find any bugs or want to suggest new features, please create an issue or submit a pull request.
